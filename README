@@ -1,0 +1,2 @@
+Program for plotting Madelung potentials from GULP Output. Requires GULP output in GOUT.
+Prohram for plotting Electrostatic potentials from VASP. Requires VASP LOCPOT file.
